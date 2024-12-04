@@ -1,28 +1,71 @@
+        
 [
   {
-    "patchName": "Theme",
+    "patchName": "Custom Shorts action buttons",
     "options": [
       {
-        "key": "DarkThemeBackgroundColor",
-        "value": "@android:color/black"
+        "key": "IconType",
+        "value": "OriginalOutline"
       }
     ]
   },
   {
-    "patchName": "Theme",
+    "patchName": "Custom branding icon for YouTube",
     "options": [
       {
-        "key": "DarkThemeBackgroundColor",
-        "value": "@android:color/black"
+        "key": "AppIcon",
+        "value": "MMT"
+      },
+      {
+        "key": "ChangeHeader",
+        "value": "MMT"
+      },
+      {
+        "key": "CustomHeader",
+        "value": "MMT"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": "MMT"
       }
     ]
   },
   {
-    "patchName": "Theme",
+    "patchName": "Custom branding name for YouTube",
     "options": [
       {
-        "key": "darkThemeBackgroundColor",
-        "value": "@android:color/black"
+        "key": "AppName",
+        "value": "YouTube "
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding icon for YouTube Music",
+    "options": [
+      {
+        "key": "AppIcon",
+        "value": "MMT"
+      },
+      {
+        "key": "ChangeHeader",
+        "value": "MMT"
+      },
+      {
+        "key": "ChangeSplashIcon",
+        "value": "MMT"
+      }
+    ]
+  },
+  {
+    "patchName": "Custom branding name for YouTube Music",
+    "options": [
+      {
+        "key": "AppNameNotification",
+        "value": "Music"
+      },
+      {
+        "key": "AppNameLauncher",
+        "value": "YouTube Music"
       }
     ]
   }
